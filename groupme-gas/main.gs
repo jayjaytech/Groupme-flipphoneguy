@@ -33,7 +33,7 @@ var HELP = [
   "Dictionary: -dictionary [word]",
   "Temp Converter: -temp [number] [F or C](ex: -temp 100 C)",
   "",
-  "credits: @flipphoneguy"
+  "credits: @flipphoneguy and @jayjaytech"
 ].join("\n");
 
 var ADMIN_HELP = [
