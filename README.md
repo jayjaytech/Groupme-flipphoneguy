@@ -1,7 +1,7 @@
 
 # GroupMe Utility Bot — Google Apps Script Port
  
-> ⚠️ **This is an unofficial port of [flipphoneguy/groupme](https://github.com/flipphoneguy/groupme).** All credit for the original concept, commands, and logic goes to [@flipphoneguy](https://github.com/flipphoneguy). This repo simply re-implements the same bot to run on **Google Apps Script** instead of Python/Flask, so no server or hosting is needed.
+> ⚠️ **This is an official port of [flipphoneguy/groupme](https://github.com/flipphoneguy/groupme).** All credit for the original concept, commands, and logic goes to [@flipphoneguy](https://github.com/flipphoneguy). This repo simply re-implements the same bot to run on **Google Apps Script** instead of Python/Flask, so no server or hosting is needed.
  
 ---
  
